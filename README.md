@@ -1,2 +1,3 @@
 # Huffman-Encoding
-Huffman Encoding and Decoding of text files
+
+This project can encode and decode text files. It uses a Huffman Tree and relevant functions that were created from scratch.
